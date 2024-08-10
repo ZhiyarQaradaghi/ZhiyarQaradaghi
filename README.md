@@ -10,9 +10,16 @@ Welcome to my GitHub profile! I'm Zhiyar Qaradaghi, a passionate software engine
 💬 Let’s Connect: I’m always open to discussions about tech, design patterns, or anything cat-related. Feel free to reach out!
 
 # Skills I Have
-<h5 style="display: inline">Java</h5><img align="center" alt="JAVA" width="26px" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" style="display: inline"/>                   
-<h5 style="display: inline">DSA</h5><img align="left" alt="DSA" width="26px" src="https://img.icons8.com/?size=100&id=12184&format=png&color=000000" style="display: inline"/>
-
+<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px;">
+    <div style="text-align: center;">
+        <h5>Java</h5>
+        <img alt="JAVA" width="26px" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" />
+    </div>
+    <div style="text-align: center;">
+        <h5>DSA</h5>
+        <img alt="DSA" width="26px" src="https://img.icons8.com/?size=100&id=12184&format=png&color=000000" />
+    </div>
+</div>
 
 
 <h5 style="display: inline">MySQL</h5><img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" style="" />     
