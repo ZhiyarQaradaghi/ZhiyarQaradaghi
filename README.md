@@ -2,119 +2,31 @@
 
 **`Software Engineer`** **`Tech Enthusiast`** **`Problem Solver`** **`Punctual Perfectionist`**
 
-Welcome to my GitHub profile! I am Zhiyar Qaradaghi, a passionate software engineer with a love for technology and a drive to tackle challenging problems. Here’s a bit about me:
+# 💫 About Me:
+Welcome to my GitHub profile! I am Zhiyar Qaradaghi, a passionate software engineer with a love for technology and a drive to tackle challenging problems. Here’s a bit about me:<br><br>🔭 Current Focus: I have collected quite a few skills and plan on learning more, however, I believe that it is important to try and fully master a skill rather than just learning basics and moving on.<br><br>🌱 Learning & Growth: I thrive on hard challenges and believe in learning from failures, as I have personally experienced and seen that a person with strong convictions will always come out on top of their failures.<br><br>🕒 Timely and Organized: I am dedicated to staying on schedule and keeping my work well-structured. I believe in getting tasks done on time and efficiently, always aiming for clear planning and prompt delivery.<br><br>💬 Let’s Connect: I am always open to discussions about tech, design patterns, or anything cat-related. Feel free to reach out!
 
-🔭 Current Focus: I have collected quite a few skills and plan on learning more, however, I believe that it is important to try and fully master a skill rather than just learning basics and moving on.
 
-🌱 Learning & Growth: I thrive on hard challenges and believe in learning from failures, as I have personally experienced and seen that a person with strong convictions will always come out on top of their failures.
 
-🕒 Timely and Organized: I am dedicated to staying on schedule and keeping my work well-structured. I believe in getting tasks done on time and efficiently, always aiming for clear planning and prompt delivery.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ZhiyarQaradaghi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ZhiyarQaradaghi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhiyarQaradaghi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-💬 Let’s Connect: I am always open to discussions about tech, design patterns, or anything cat-related. Feel free to reach out!
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ZhiyarQaradaghi&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
-<h2>📍 Skills I Have 📍</h2>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="text-align: center;">
-      <h5>Java</h5>
-      <img alt="JAVA" width="50px" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" />
-    </td>
-    <td style="text-align: center;">
-      <h5>DSA</h5>
-      <img alt="DSA" width="50px" src="https://img.icons8.com/?size=100&id=12184&format=png&color=000000" />
-    </td>
-    <td style="text-align: center;">
-      <h5>MySQL</h5>
-      <img alt="MySQL" width="50px" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" />
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">
-      <h5>Software Design</h5>
-      <img alt="Software Design Patterns" width="50px" src="https://refactoring.guru/images/patterns/cards/factory-method-mini.png" />
-    </td>
-    <td style="text-align: center;">
-      <h5>JavaScript</h5>
-      <img alt="JavaScript" width="50px" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" />
-    </td>
-    <td style="text-align: center;">
-      <h5>Nodejs</h5>
-      <img alt="Nodejs" width="50px" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" />
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">
-      <h5>HTML</h5>
-      <img alt="HTML5" width="50px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
-    </td>
-    <td style="text-align: center;">
-      <h5>CSS</h5>
-      <img alt="CSS3" width="50px" src="https://img.icons8.com/?size=100&id=3BTBsJs5myRy&format=png&color=000000" />
-    </td>
-    <td style="text-align: center;">
-      <h5>Networking</h5>
-      <img alt="Networking" width="50px" src="https://img.icons8.com/?size=100&id=XEnbmdky0kzu&format=png&color=000000" />
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">
-      <h5>Robotics</h5>
-      <img alt="Robotics with Arduino" width="50px" src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" />
-    </td>
-    <td style="text-align: center;">
-      <h5>Express.js</h5>
-      <img alt="Express.js" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
-    </td>
-    <td style="text-align: center;">
-      <h5>Bootstrap</h5>
-      <img alt="Bootstrap" width="50px" src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" />
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">
-      <h5>Discrete Math</h5>
-      <img alt="Discrete Math" width="50px" src="https://img.icons8.com/?size=100&id=NEjGREZVQmLV&format=png&color=000000" />
-    </td>
-    <td style="text-align: center;">
-      <h5>Flutter</h5>
-      <img alt="HTML5" width="50px" src="https://img.icons8.com/?size=100&id=pCvIfmctRaY8&format=png&color=000000" />
-    </td>
-  </tr>
-</table>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ZhiyarQaradaghi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h2>📍 Non-Tech Skills | Hobbies 📍</h2>
+---
+[![](https://visitcount.itsvg.in/api?id=ZhiyarQaradaghi&icon=1&color=8)](https://visitcount.itsvg.in)
 
-<table>
-  <tr>
-    <td style="text-align: center;">
-      <h5>Basic Accounting</h5>
-      <img alt="Basic Accounting" width="50px" src="https://img.icons8.com/?size=100&id=22462&format=png&color=000000" />
-    </td>
-    <td style="text-align: center;">
-      <h5>Gym</h5>
-      <img alt="Gym" width="50px" src="https://img.icons8.com/?size=100&id=1786&format=png&color=000000" />
-    </td>
-    <td style="text-align: center;">
-      <h5>Cooking</h5>
-      <img alt="Cooking" width="50px" src="https://img.icons8.com/?size=100&id=41086&format=png&color=000000" />
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">
-      <h5>Languages</h5>
-      <img alt="Languages" width="50px" src="https://img.icons8.com/?size=100&id=31016&format=png&color=000000" />
-    </td>
-    <td style="text-align: center;">
-      <h5>Game Modding</h5>
-      <img alt="Game Modding" width="50px" src="https://img.icons8.com/?size=100&id=hJuLPeNSeygg&format=png&color=000000" />
-    </td>
-    <td style="text-align: center;">
-      <h5>Photoshop</h5>
-      <img alt="Photoshop" width="50px" src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" />
-    </td>
-  </tr>
-</table>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
