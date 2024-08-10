@@ -26,7 +26,6 @@ Welcome to my GitHub profile! I'm Zhiyar Qaradaghi, a passionate software engine
 🚀 Bootstrap          
 🔢 Discrete Math
 
-
 # Non-Tech Skills | Hobbies 
 📊 Basic Accounting  
 🏋️ Gym  
