@@ -64,7 +64,7 @@ Welcome to my GitHub profile! I am Zhiyar Qaradaghi, a passionate software engin
     </td>
     <td style="text-align: center;">
       <h5>Express.js</h5>
-      <img alt="Express.js" width="50px" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" />
+      <img alt="Express.js" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
     </td>
     <td style="text-align: center;">
       <h5>Bootstrap</h5>
