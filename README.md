@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm Zhiyar Qaradaghi, a passionate software engine
   </tr>
   <tr>
     <td style="text-align: center;">
-      <h5>Robotics with Arduino</h5>
+      <h5>Robotics</h5>
       <img alt="Robotics with Arduino" width="50px" src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" />
     </td>
     <td style="text-align: center;">
