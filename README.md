@@ -11,85 +11,100 @@ Welcome to my GitHub profile! I'm Zhiyar Qaradaghi, a passionate software engine
 
 # Skills I Have
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; justify-items: center;">
-    <div style="text-align: center;">
-        <h5>Java</h5>
-        <img alt="JAVA" width="50px" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" />
-    </div>
-    <div style="text-align: center;">
-        <h5>DSA</h5>
-        <img alt="DSA" width="50px" src="https://img.icons8.com/?size=100&id=12184&format=png&color=000000" />
-    </div>
-    <div style="text-align: center;">
-        <h5>MySQL</h5>
-        <img alt="MySQL" width="50px" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" />
-    </div>
-    <div style="text-align: center;">
-        <h5>Software Design Patterns</h5>
-        <img alt="Software Design Patterns" width="50px" src="https://refactoring.guru/images/patterns/cards/factory-method-mini.png" />
-    </div>
-    <div style="text-align: center;">
-        <h5>JavaScript</h5>
-        <img alt="JavaScript" width="50px" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" />
-    </div>
-    <div style="text-align: center;">
-        <h5>Flutter</h5>
-        <img alt="Flutter" width="50px" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" />
-    </div>
-    <div style="text-align: center;">
-        <h5>HTML5</h5>
-        <img alt="HTML5" width="50px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
-    </div>
-    <div style="text-align: center;">
-        <h5>CSS3</h5>
-        <img alt="CSS3" width="50px" src="https://img.icons8.com/?size=100&id=3BTBsJs5myRy&format=png&color=000000" />
-    </div>
-    <div style="text-align: center;">
-        <h5>Networking</h5>
-        <img alt="Networking" width="50px" src="https://img.icons8.com/?size=100&id=10387&format=png&color=000000" />
-    </div>
-    <div style="text-align: center;">
-        <h5>Robotics with Arduino</h5>
-        <img alt="Robotics with Arduino" width="50px" src="https://img.icons8.com/?size=100&id=15144&format=png&color=000000" />
-    </div>
-    <div style="text-align: center;">
-        <h5>Express.js</h5>
-        <img alt="Express.js" width="50px" src="https://img.icons8.com/?size=100&id=15110&format=png&color=000000" />
-    </div>
-    <div style="text-align: center;">
-        <h5>Bootstrap</h5>
-        <img alt="Bootstrap" width="50px" src="https://img.icons8.com/?size=100&id=16401&format=png&color=000000" />
-    </div>
-    <div style="text-align: center;">
-        <h5>Discrete Math</h5>
-        <img alt="Discrete Math" width="50px" src="https://img.icons8.com/?size=100&id=12355&format=png&color=000000" />
-    </div>
-</div>
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <h5>Java</h5>
+      <img alt="JAVA" width="50px" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" />
+    </td>
+    <td style="text-align: center;">
+      <h5>DSA</h5>
+      <img alt="DSA" width="50px" src="https://img.icons8.com/?size=100&id=12184&format=png&color=000000" />
+    </td>
+    <td style="text-align: center;">
+      <h5>MySQL</h5>
+      <img alt="MySQL" width="50px" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" />
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <h5>Software Design Patterns</h5>
+      <img alt="Software Design Patterns" width="50px" src="https://refactoring.guru/images/patterns/cards/factory-method-mini.png" />
+    </td>
+    <td style="text-align: center;">
+      <h5>JavaScript</h5>
+      <img alt="JavaScript" width="50px" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" />
+    </td>
+    <td style="text-align: center;">
+      <h5>Flutter</h5>
+      <img alt="Flutter" width="50px" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" />
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <h5>HTML5</h5>
+      <img alt="HTML5" width="50px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
+    </td>
+    <td style="text-align: center;">
+      <h5>CSS3</h5>
+      <img alt="CSS3" width="50px" src="https://img.icons8.com/?size=100&id=3BTBsJs5myRy&format=png&color=000000" />
+    </td>
+    <td style="text-align: center;">
+      <h5>Networking</h5>
+      <img alt="Networking" width="50px" src="https://img.icons8.com/?size=100&id=10387&format=png&color=000000" />
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <h5>Robotics with Arduino</h5>
+      <img alt="Robotics with Arduino" width="50px" src="https://img.icons8.com/?size=100&id=15144&format=png&color=000000" />
+    </td>
+    <td style="text-align: center;">
+      <h5>Express.js</h5>
+      <img alt="Express.js" width="50px" src="https://img.icons8.com/?size=100&id=15110&format=png&color=000000" />
+    </td>
+    <td style="text-align: center;">
+      <h5>Bootstrap</h5>
+      <img alt="Bootstrap" width="50px" src="https://img.icons8.com/?size=100&id=16401&format=png&color=000000" />
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <h5>Discrete Math</h5>
+      <img alt="Discrete Math" width="50px" src="https://img.icons8.com/?size=100&id=12355&format=png&color=000000" />
+    </td>
+  </tr>
+</table>
 
 # Non-Tech Skills | Hobbies
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; justify-items: center;">
-    <div style="text-align: center;">
-        <h5>Basic Accounting</h5>
-        <img alt="Basic Accounting" width="50px" src="https://img.icons8.com/?size=100&id=13923&format=png&color=000000" />
-    </div>
-    <div style="text-align: center;">
-        <h5>Gym</h5>
-        <img alt="Gym" width="50px" src="https://img.icons8.com/?size=100&id=14418&format=png&color=000000" />
-    </div>
-    <div style="text-align: center;">
-        <h5>Cooking</h5>
-        <img alt="Cooking" width="50px" src="https://img.icons8.com/?size=100&id=8710&format=png&color=000000" />
-    </div>
-    <div style="text-align: center;">
-        <h5>Languages</h5>
-        <img alt="Languages" width="50px" src="https://img.icons8.com/?size=100&id=13920&format=png&color=000000" />
-    </div>
-    <div style="text-align: center;">
-        <h5>Game Modding</h5>
-        <img alt="Game Modding" width="50px" src="https://img.icons8.com/?size=100&id=14378&format=png&color=000000" />
-    </div>
-</div>
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <h5>Basic Accounting</h5>
+      <img alt="Basic Accounting" width="50px" src="https://img.icons8.com/?size=100&id=13923&format=png&color=000000" />
+    </td>
+    <td style="text-align: center;">
+      <h5>Gym</h5>
+      <img alt="Gym" width="50px" src="https://img.icons8.com/?size=100&id=14418&format=png&color=000000" />
+    </td>
+    <td style="text-align: center;">
+      <h5>Cooking</h5>
+      <img alt="Cooking" width="50px" src="https://img.icons8.com/?size=100&id=8710&format=png&color=000000" />
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <h5>Languages</h5>
+      <img alt="Languages" width="50px" src="https://img.icons8.com/?size=100&id=13920&format=png&color=000000" />
+    </td>
+    <td style="text-align: center;">
+      <h5>Game Modding</h5>
+      <img alt="Game Modding" width="50px" src="https://img.icons8.com/?size=100&id=14378&format=png&color=000000" />
+    </td>
+  </tr>
+</table>
+
 
 
 
