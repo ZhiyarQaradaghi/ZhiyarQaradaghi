@@ -87,25 +87,25 @@ Welcome to my GitHub profile! I'm Zhiyar Qaradaghi, a passionate software engine
   <tr>
     <td style="text-align: center;">
       <h5>Basic Accounting</h5>
-      <img alt="Basic Accounting" width="50px" src="https://img.icons8.com/?size=100&id=13923&format=png&color=000000" />
+      <img alt="Basic Accounting" width="50px" src="https://img.icons8.com/?size=100&id=22462&format=png&color=000000" />
     </td>
     <td style="text-align: center;">
       <h5>Gym</h5>
-      <img alt="Gym" width="50px" src="https://img.icons8.com/?size=100&id=14418&format=png&color=000000" />
+      <img alt="Gym" width="50px" src="https://img.icons8.com/?size=100&id=1786&format=png&color=000000" />
     </td>
     <td style="text-align: center;">
       <h5>Cooking</h5>
-      <img alt="Cooking" width="50px" src="https://img.icons8.com/?size=100&id=8710&format=png&color=000000" />
+      <img alt="Cooking" width="50px" src="https://img.icons8.com/?size=100&id=41086&format=png&color=000000" />
     </td>
   </tr>
   <tr>
     <td style="text-align: center;">
       <h5>Languages</h5>
-      <img alt="Languages" width="50px" src="https://img.icons8.com/?size=100&id=13920&format=png&color=000000" />
+      <img alt="Languages" width="50px" src="https://img.icons8.com/?size=100&id=31016&format=png&color=000000" />
     </td>
     <td style="text-align: center;">
       <h5>Game Modding</h5>
-      <img alt="Game Modding" width="50px" src="https://img.icons8.com/?size=100&id=14378&format=png&color=000000" />
+      <img alt="Game Modding" width="50px" src="https://img.icons8.com/?size=100&id=hJuLPeNSeygg&format=png&color=000000" />
     </td>
   </tr>
 </table>
