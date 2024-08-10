@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm Zhiyar Qaradaghi, a passionate software engine
 <h5 style="display: inline">Java</h5><img align="left" alt="JAVA" width="26px" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" style=""/>                   
 <h5 style="display: inline">DSA</h5><img align="left" alt="DSA" width="26px" src="https://img.icons8.com/?size=100&id=12184&format=png&color=000000" style=""/>
 <h5 style="display: inline">MySQL</h5><img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" style="" />     
-<h5 style="display: inline">Software Design Patterns</h5><img align="left" alt="MySQL" width="26px" src="[https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000](https://refactoring.guru/images/patterns/cards/factory-method-mini.png)" style="" />
+<h5 style="display: inline">Software Design Patterns</h5><img align="left" alt="MySQL" width="26px" src="https://refactoring.guru/images/patterns/cards/factory-method-mini.png" style="" />
 <h5 style="display: inline">Java</h5>🖥️ Software Models        
 <h5 style="display: inline">Java</h5><img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" style="" />
 <h5 style="display: inline">Java</h5><img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" style="" />        
