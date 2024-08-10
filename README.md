@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm Zhiyar Qaradaghi, a passionate software engine
   </tr>
   <tr>
     <td style="text-align: center;">
-      <h5>Software Design Patterns</h5>
+      <h5>Software Design</h5>
       <img alt="Software Design Patterns" width="50px" src="https://refactoring.guru/images/patterns/cards/factory-method-mini.png" />
     </td>
     <td style="text-align: center;">
