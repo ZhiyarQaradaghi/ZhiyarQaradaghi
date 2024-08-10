@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm Zhiyar Qaradaghi, a passionate software engine
 
 # Skills I Have
 
-<table>
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="text-align: center;">
       <h5>Java</h5>
