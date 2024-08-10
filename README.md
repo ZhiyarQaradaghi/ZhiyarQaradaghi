@@ -109,6 +109,10 @@ Welcome to my GitHub profile! I am Zhiyar Qaradaghi, a passionate software engin
       <h5>Game Modding</h5>
       <img alt="Game Modding" width="50px" src="https://img.icons8.com/?size=100&id=hJuLPeNSeygg&format=png&color=000000" />
     </td>
+    <td style="text-align: center;">
+      <h5>Photoshop</h5>
+      <img alt="Photoshop" width="50px" src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" />
+    </td>
   </tr>
 </table>
 
