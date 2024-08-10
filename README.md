@@ -10,18 +10,18 @@ Welcome to my GitHub profile! I'm Zhiyar Qaradaghi, a passionate software engine
 💬 Let’s Connect: I’m always open to discussions about tech, design patterns, or anything cat-related. Feel free to reach out!
 
 # Skills I Have
-☕ Java                   
-📚 Data Structures & Algorithms  
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]     
+[<img align="left" alt="JAVA" width="26px" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" style=""/>]                   
+[<img align="left" alt="DSA" width="26px" src="https://img.icons8.com/?size=100&id=12184&format=png&color=000000" style=""/>]
+[<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" style="" />]     
 🧩 Software Design  
 🖥️ Software Models        
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]        
+[<img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" style="" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" style="" />]        
 🦋 Flutter
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]                
+[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" style="" />]                
+[<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/?size=100&id=3BTBsJs5myRy&format=png&color=000000" style="" />]   
 🌐 Networking       
 🤖 Robotics with Arduino  
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]   
 🚀 Express.js             
 🚀 Bootstrap          
 🔢 Discrete Math
