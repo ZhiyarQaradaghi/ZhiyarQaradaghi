@@ -11,20 +11,20 @@ Welcome to my GitHub profile! I'm Zhiyar Qaradaghi, a passionate software engine
 
 # Skills I Have
 <h5 style="display: inline">Java</h5><img align="left" alt="JAVA" width="26px" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" style=""/>                   
-<img align="left" alt="DSA" width="26px" src="https://img.icons8.com/?size=100&id=12184&format=png&color=000000" style=""/>
-<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" style="" />     
-🧩 Software Design  
-🖥️ Software Models        
-<img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" style="" />
-<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" style="" />        
-🦋 Flutter
-<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" style="" />                
-<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/?size=100&id=3BTBsJs5myRy&format=png&color=000000" style="" />   
-🌐 Networking       
-🤖 Robotics with Arduino  
-🚀 Express.js             
-🚀 Bootstrap          
-🔢 Discrete Math
+<h5 style="display: inline">DSA</h5><img align="left" alt="DSA" width="26px" src="https://img.icons8.com/?size=100&id=12184&format=png&color=000000" style=""/>
+<h5 style="display: inline">MySQL</h5><img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" style="" />     
+<h5 style="display: inline">Software Design Patterns</h5><img align="left" alt="MySQL" width="26px" src="[https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000](https://refactoring.guru/images/patterns/cards/factory-method-mini.png)" style="" />
+<h5 style="display: inline">Java</h5>🖥️ Software Models        
+<h5 style="display: inline">Java</h5><img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" style="" />
+<h5 style="display: inline">Java</h5><img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" style="" />        
+<h5 style="display: inline">Java</h5>🦋 Flutter
+<h5 style="display: inline">Java</h5><img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" style="" />                
+<h5 style="display: inline">Java</h5><img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/?size=100&id=3BTBsJs5myRy&format=png&color=000000" style="" />   
+<h5 style="display: inline">Java</h5>🌐 Networking       
+<h5 style="display: inline">Java</h5>🤖 Robotics with Arduino  
+<h5 style="display: inline">Java</h5>🚀 Express.js             
+<h5 style="display: inline">Java</h5>🚀 Bootstrap          
+<h5 style="display: inline">Java</h5>🔢 Discrete Math
 
 
 # Non-Tech Skills | Hobbies 
