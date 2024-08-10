@@ -1,4 +1,4 @@
-##🏋 ⌞Zhiyar Qaradaghi⌝ 🎓🐈
+<h1> ⌞Zhiyar Qaradaghi⌝ 🎓🐈 </h1>
 **`Software Engineer`** **`Tech Enthusiast`** **`Problem Solver`**
 
 Welcome to my GitHub profile! I'm Zhiyar Qaradaghi, a passionate software engineer with a love for technology and a drive to tackle challenging problems. Here’s a bit about me:
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm Zhiyar Qaradaghi, a passionate software engine
 
 💬 Let’s Connect: I’m always open to discussions about tech, design patterns, or anything cat-related. Feel free to reach out!
 
-#📍 Skills I Have 📍
+<h2>📍 Skills I Have 📍</h2>
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
@@ -80,7 +80,7 @@ Welcome to my GitHub profile! I'm Zhiyar Qaradaghi, a passionate software engine
   </tr>
 </table>
 
-#📍 Non-Tech Skills | Hobbies 📍
+<h2>📍 Non-Tech Skills | Hobbies 📍</h2>
 
 <table>
   <tr>
