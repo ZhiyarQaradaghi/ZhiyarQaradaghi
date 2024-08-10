@@ -42,22 +42,22 @@ Welcome to my GitHub profile! I'm Zhiyar Qaradaghi, a passionate software engine
   </tr>
   <tr>
     <td style="text-align: center;">
-      <h5>HTML5</h5>
+      <h5>HTML</h5>
       <img alt="HTML5" width="50px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
     </td>
     <td style="text-align: center;">
-      <h5>CSS3</h5>
+      <h5>CSS</h5>
       <img alt="CSS3" width="50px" src="https://img.icons8.com/?size=100&id=3BTBsJs5myRy&format=png&color=000000" />
     </td>
     <td style="text-align: center;">
       <h5>Networking</h5>
-      <img alt="Networking" width="50px" src="https://img.icons8.com/?size=100&id=10387&format=png&color=000000" />
+      <img alt="Networking" width="50px" src="https://img.icons8.com/?size=100&id=XEnbmdky0kzu&format=png&color=000000" />
     </td>
   </tr>
   <tr>
     <td style="text-align: center;">
       <h5>Robotics with Arduino</h5>
-      <img alt="Robotics with Arduino" width="50px" src="https://img.icons8.com/?size=100&id=15144&format=png&color=000000" />
+      <img alt="Robotics with Arduino" width="50px" src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" />
     </td>
     <td style="text-align: center;">
       <h5>Express.js</h5>
@@ -71,7 +71,7 @@ Welcome to my GitHub profile! I'm Zhiyar Qaradaghi, a passionate software engine
   <tr>
     <td style="text-align: center;">
       <h5>Discrete Math</h5>
-      <img alt="Discrete Math" width="50px" src="https://img.icons8.com/?size=100&id=12355&format=png&color=000000" />
+      <img alt="Discrete Math" width="50px" src="https://img.icons8.com/?size=100&id=NEjGREZVQmLV&format=png&color=000000" />
     </td>
     <td style="text-align: center;">
       <h5>Flutter</h5>
