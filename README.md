@@ -10,16 +10,20 @@ Welcome to my GitHub profile! I'm Zhiyar Qaradaghi, a passionate software engine
 💬 Let’s Connect: I’m always open to discussions about tech, design patterns, or anything cat-related. Feel free to reach out!
 
 # Skills I Have
-☕ Java        📚 Data Structures & Algorithms  
-🐍 SQL         🧩 Software Design  🖥️ Software Models
-🟢 Node.js     📜 JavaScript       🦋 Flutter
-🌐 HTML        🌐 Networking       🤖 Robotics with Arduino
-🎨 CSS         🚀 Express.js       🚀 Bootstrap          
+☕ Java                   📚 Data Structures & Algorithms  
+🐍 SQL                    🧩 Software Design  
+🖥️ Software Models        🟢 Node.js    
+📜 JavaScript             🦋 Flutter
+🌐 HTML                   🌐 Networking       
+🤖 Robotics with Arduino  🎨 CSS         
+🚀 Express.js             🚀 Bootstrap          
 🔢 Discrete Math
 
 
 # Non-Tech Skills | Hobbies 
-📊 Basic Accounting  🏋️ Gym  🍳 Cooking 
+📊 Basic Accounting  
+🏋️ Gym  
+🍳 Cooking 
 🌐 Languages: Basic Arabic, Native Kurdish
 🎮 Game Modding
 
