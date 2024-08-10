@@ -1,4 +1,4 @@
-## Hi there 👋
+⌞## Zhiyar Qaradaghi⌝
 
 <!--
 **ZhiyarQaradaghi/ZhiyarQaradaghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
