@@ -1,14 +1,16 @@
 <h1>🏋👨‍💻 ⌞Zhiyar Qaradaghi⌝ 🎓⚒️ </h1>
 
-**`Software Engineer`** **`Tech Enthusiast`** **`Problem Solver`**
+**`Software Engineer`** **`Tech Enthusiast`** **`Problem Solver`** **`Punctual Perfectionist`**
 
-Welcome to my GitHub profile! I'm Zhiyar Qaradaghi, a passionate software engineer with a love for technology and a drive to tackle challenging problems. Here’s a bit about me:
+Welcome to my GitHub profile! I am Zhiyar Qaradaghi, a passionate software engineer with a love for technology and a drive to tackle challenging problems. Here’s a bit about me:
 
 🔭 Current Focus: I have collected quite a few skills and plan on learning more, however, I believe that it is important to try and fully master a skill rather than just learning basics and moving on.
 
 🌱 Learning & Growth: I thrive on hard challenges and believe in learning from failures, as I have personally experienced and seen that a person with strong convictions will always come out on top of their failures.
 
-💬 Let’s Connect: I’m always open to discussions about tech, design patterns, or anything cat-related. Feel free to reach out!
+🕒 Timely and Organized: I am dedicated to staying on schedule and keeping my work well-structured. I believe in getting tasks done on time and efficiently, always aiming for clear planning and prompt delivery.
+
+💬 Let’s Connect: I am always open to discussions about tech, design patterns, or anything cat-related. Feel free to reach out!
 
 <h2>📍 Skills I Have 📍</h2>
 
