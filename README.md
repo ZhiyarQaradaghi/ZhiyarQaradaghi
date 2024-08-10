@@ -36,8 +36,8 @@ Welcome to my GitHub profile! I'm Zhiyar Qaradaghi, a passionate software engine
       <img alt="JavaScript" width="50px" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" />
     </td>
     <td style="text-align: center;">
-      <h5>Flutter</h5>
-      <img alt="Flutter" width="50px" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" />
+      <h5>Nodejs</h5>
+      <img alt="Nodejs" width="50px" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" />
     </td>
   </tr>
   <tr>
@@ -61,17 +61,21 @@ Welcome to my GitHub profile! I'm Zhiyar Qaradaghi, a passionate software engine
     </td>
     <td style="text-align: center;">
       <h5>Express.js</h5>
-      <img alt="Express.js" width="50px" src="https://img.icons8.com/?size=100&id=15110&format=png&color=000000" />
+      <img alt="Express.js" width="50px" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" />
     </td>
     <td style="text-align: center;">
       <h5>Bootstrap</h5>
-      <img alt="Bootstrap" width="50px" src="https://img.icons8.com/?size=100&id=16401&format=png&color=000000" />
+      <img alt="Bootstrap" width="50px" src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" />
     </td>
   </tr>
   <tr>
     <td style="text-align: center;">
       <h5>Discrete Math</h5>
       <img alt="Discrete Math" width="50px" src="https://img.icons8.com/?size=100&id=12355&format=png&color=000000" />
+    </td>
+    <td style="text-align: center;">
+      <h5>Flutter</h5>
+      <img alt="HTML5" width="50px" src="https://img.icons8.com/?size=100&id=pCvIfmctRaY8&format=png&color=000000" />
     </td>
   </tr>
 </table>
