@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm Zhiyar Qaradaghi, a passionate software engine
 💬 Let’s Connect: I’m always open to discussions about tech, design patterns, or anything cat-related. Feel free to reach out!
 
 # Skills I Have
+
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; justify-items: center;">
     <div style="text-align: center;">
         <h5>Java</h5>
@@ -66,6 +67,7 @@ Welcome to my GitHub profile! I'm Zhiyar Qaradaghi, a passionate software engine
 </div>
 
 # Non-Tech Skills | Hobbies
+
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; justify-items: center;">
     <div style="text-align: center;">
         <h5>Basic Accounting</h5>
