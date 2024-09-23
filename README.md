@@ -1,4 +1,4 @@
-<h1>🏋👨‍💻 ⌞Zhiyar Qaradaghi⌝ 🎓⚒️ </h1>
+<h1> ⌞Zhiyar Qaradaghi⌝ </h1>
 
 **`Software Engineer`** **`Tech Enthusiast`** **`Problem Solver`** **`Punctual Perfectionist`**
 
